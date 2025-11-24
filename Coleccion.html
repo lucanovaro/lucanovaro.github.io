@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nuestra Colección | RE-NOVA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <div class="logo">RE-NOVA</div>
+    <nav class="nav">
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="coleccion.html" class="active">Nuestra Colección</a>
+      <a href="contacto.html">Contacto</a>
+      
+    </nav>
+  </header>
+  <div class="contenedor-boton">
+      <div class="publicar">
+        <button id="abrir-formulario">Publicar producto nuevo</button>
+      </div>  
+    </div>
+   <!-- Formulario oculto (agregar justo debajo del botón) -->
+   <div class="formulario-producto" id="formulario-producto">
+    <h3>Agregar nuevo producto</h3>
+    <input type="text" id="nombreProducto" placeholder="Nombre del producto" required>
+    <input type="text" id="descripcionProducto" placeholder="Descripción" required>
+    <input type="text" id="imagenProducto" placeholder="URL de la imagen (opcional)">
+    <button id="agregarProducto">Agregar</button>
+    <button id="cancelarProducto" class="cancelar">Cancelar</button>
+   </div>
+  <section class="content-section">
+    <h2>NUESTRA COLECCIÓN</h2>
+    <p>Descubrí nuestras prendas de segunda mano, listas para una nueva oportunidad.</p>
+
+    <div class="productos">
+      <!-- PRODUCTO 1 -->
+      <div class="producto">
+        <img src="campera_de_jean.jpg" alt="Producto 1">
+        <h3>Campera Vintage</h3>
+        <p>Campera de jean clásica, excelente estado. Talle M.</p>
+        <button>Comprar</button>
+      </div>
+
+      <!-- PRODUCTO 2 -->
+      <div class="producto">
+        <img src="remera_beige.jpg" alt="Producto 2">
+        <h3>Remera Aura</h3>
+        <p>Remera unisex color beige, 100% algodón. Talle L.</p>
+        <button>Comprar</button>
+      </div>
+
+      <!-- PRODUCTO 3 -->
+      <div class="producto">
+        <img src="pantalon_cargo.jpg" alt="Producto 3">
+        <h3>Pantalon Cargo</h3>
+        <p>Pantalon cargo negro con poco uso. Talle 40.</p>
+        <button>Comprar</button>
+      </div>
+
+      <!-- PRODUCTO 3 -->
+      <div class="producto">
+        <img src="buzo_boca.jpg" alt="Producto 4">
+        <h3>Buzo Boca</h3>
+        <p>Buzo de Boca un poco gastado. Talle desconocido.</p>
+        <button>Comprar</button>
+      </div>
+    </div>
+
+    
+
+</section>
+
+  <footer class="footer">
+    <p>© 2025 RE-NOVA | La diferencia está en vos</p>
+    <div class="socials">
+      <a href="https://www.instagram.com/re_nova.ar/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram"></a>
+      <a href="https://www.Whatsapp.com/" target="_blank"><img src="whatsapp-removebg-preview.png" alt="Whatsapp"></a>
+      <a href="https://twitter.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter"></a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contacto | RE-NOVA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <div class="logo">RE-NOVA</div>
+    <nav class="nav">
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="coleccion.html">Nuestra Colección</a>
+      <a href="contacto.html" class="active">Contacto</a>
+      
+    </nav>
+  </header>
+
+  <div class="content-wrapper"> <section class="content-section alt">
+      <h2>CONTACTO</h2>
+      <p>Completá el siguiente formulario para comunicarte con nosotros.</p>
+
+      <form class="contact-form" onsubmit="enviarMensaje(event)">
+        <input type="text" placeholder="Nombre" required>
+        <input type="text" placeholder="Apellido" required>
+        <input type="email" placeholder="Correo electrónico" required>
+        <input type="tel" placeholder="Teléfono" required>
+        <textarea placeholder="Mensaje" rows="5" required></textarea>
+        <button type="submit">Enviar mensaje</button>
+      </form>
+
+    </section>
+  </div> <footer class="footer">
+    <p>© 2025 RE-NOVA | La diferencia está en vos</p>
+    <div class="socials">
+      <a href="https://www.instagram.com/re_nova.ar/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram"></a>
+      <a href="https://www.Whatsapp.com/" target="_blank"><img src="whatsapp-removebg-preview.png" alt="Whatsapp"></a>
+      <a href="https://twitter.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter"></a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
