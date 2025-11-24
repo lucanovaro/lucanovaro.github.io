@@ -1,2 +1,14 @@
-# lucanovaro.github.io
-Pagina web de ropa
+![campera_de_jean](https://github.com/user-attachments/assets/b0296061-7155-4b33-a779-1c1e63992032)![buzo_boca](https://github.com/user-attachments/assets/b0bf6bcd-b977-41f7-8063-2a4e4be1b6fb)
+![chaqueta negra](https://github.com/user-attachments/assets/f5404b74-c6cd-4c4e-b1fc-3ab7e67b6a28)![zapatillas](https://github.com/user-attachments/assets/77e1c396-09be-4d04-85c7-53bf72dbedb0)
+<img width="224" height="225" alt="whatsapp-removebg-preview" src="https://github.com/user-attachments/assets/823303b9-1f2b-4628-b4d6-b50bc5129261" />
+![vestido rojo](https://github.com/user-attachments/assets/cdf3071c-25de-42a3-8f66-6e8101edb70d)
+[style.css](https://github.com/user-attachments/files/23732805/style.css)
+[script.js](https://github.com/user-attachments/files/23732804/script.js)
+![remera_beige](https://github.com/user-attachments/assets/1fb10d55-9175-4013-8fe0-daca1a5a0666)
+![pantalon_cargo](https://github.com/user-attachments/assets/378e34ed-e3fa-4f71-a099-20f4f28ff89a)
+[Nosotros.html](https://github.com/user-attachments/files/23732803/Nosotros.html)
+![LOGO_POSTA](https://github.com/user-attachments/assets/c5961c50-2765-420b-b808-e124815a1365)
+![Logo renova](https://github.com/user-attachments/assets/163c8415-aae4-4c7a-918c-db5322373da6)
+[index.html](https://github.com/user-attachments/files/23732801/index.html)
+[Contacto.html](https://github.com/user-attachments/files/23732800/Contacto.html)
+[Coleccion.html](https://github.com/user-attachments/files/23732799/Coleccion.html)
